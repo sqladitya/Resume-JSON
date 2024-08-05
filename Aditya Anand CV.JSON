@@ -1,0 +1,105 @@
+{
+    "name": "Aditya Anand",
+    "location": {
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "IN"
+    },
+    "contact": {
+        "phone": "+91 6205950894",
+        "email": "myself.adityaanand@gmail.com"
+    },
+    "education": [
+        {
+            "institution": "Lovely Professional University",
+            "location": "Phagwara, IN",
+            "degree": "Bachelor of Technology",
+            "major": "Computer Science and Engineering",
+            "start_date": "07/2021",
+            "expected_end_date": "06/2025",
+            "relevant_coursework": [
+                "DBMS",
+                "Operating Systems",
+                "Computer Networks",
+                "Cloud Solutions",
+                "Software Engineering"
+            ]
+        }
+    ],
+    "internship": [
+        {
+            "company": "Happieloop Technology",
+            "location": "Remote",
+            "title": "AWS Intern",
+            "start_date": "01/2024",
+            "end_date": "02/2024",
+            "responsibilities": [
+                "Streamlined AWS cloud infrastructure by deploying and configuring EC2 instances, S3 buckets, and Elastic Load Balancers; achieved 50% reduction in server downtime and improved overall system reliability.",
+                "Implemented Infrastructure as Code (IaC) using AWS CloudFormation, streamlining resource provisioning and enabling agile development practices; reduced deployment time by 50% and increased scalability by automating infrastructure management.",
+                "Spearheaded the adoption of Infrastructure as Code (IaC) through AWS CloudFormation, resulting in accelerated resource provisioning and enhanced agility; achieved a 40% reduction in deployment time and enabled seamless scalability for the development team."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "3-Tier Architecture Deployment",
+            "date": "10/2023",
+            "technologies": [
+                "AWS EC2",
+                "ELB",
+                "RDS",
+                "VPC"
+            ],
+            "description": "A 3-tier architecture comprises a presentation tier (front end), application tier (back end), and data tier for user interface, data processing, and storage. Benefits include reduced development time, enhanced scalability with independent scaling, and improved reliability and security through isolated tiers. This architectural model fosters efficient teamwork and resource utilization."
+        },
+        {
+            "name": "University Management System",
+            "repository": "https://github.com/sqladitya/",
+            "date": "07/2023",
+            "technologies": [
+                "Java",
+                "SQL"
+            ],
+            "description": "Led the creation and launch of features like student management, course enrollment, attendance tracking, and faculty administration. Boosted student retention and increased faculty productivity. Implemented strong security measures, reducing data breaches and ensuring the safety of customer information. Developed and rolled out a user-friendly university administration system, meeting all project deadlines and significantly improving operational productivity by optimizing queries and enhancing query performance."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Cloud Practitioner",
+            "date": "10/2023",
+            "credential_id": "CLF - C02"
+        },
+        {
+            "name": "HackerRank SQL Intermediate",
+            "date": "09/2023"
+        }
+    ],
+    "technical_skills": [
+        "Programming Language (Java)",
+        "Database management (SQL)",
+        "Version Control System (Git)",
+        "System administration (Windows)",
+        "Networking (TCP/IP, DNS)",
+        "AWS (EC2, S3, EBS, RDS, Dynamo DB, ELB, IAM, VPC)",
+        "Troubleshooting (DNS, VPN, Query Performance Optimization, Database Connection Issues)"
+    ],
+    "online_presence": {
+        "linkedin": "https://linkedin.com/in/sqladitya/",
+        "github": "https://github.com/sqladitya/"
+    },
+    "achievements": [
+        {
+            "title": "3 Star SQL Coder on HackerRank",
+            "date": "09/2023"
+        },
+        {
+            "title": "2 Star Java Coder on HackerRank",
+            "date": "11/2023"
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Maithili"
+    ]
+}
